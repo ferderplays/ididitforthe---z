@@ -1,0 +1,17 @@
+/**
+ *@name I did it for the ****
+ *@version 0.0.1
+ *@description ferderplays's cool theme
+ *@author ferderplays
+ *@source https://github.com/FERDdeveloper/ididitforthe---z
+ *@website https://IDidItForTheLz.ferder.repl.co/
+ *@invite NZjVy6mdXZ
+ */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+:root {
+    --app-bg: red;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
